@@ -1,0 +1,9 @@
+Options +MultiViews
+AddLanguage pl .pl       
+AddLanguage fr .fr 
+DirectoryIndex index
+
+# It seems that this URI _must_ be the filename minus the extension...
+#AddHandler type-map var
+#DirectoryIndex index.var
+
