@@ -1,6 +1,7 @@
 Options +MultiViews
 AddLanguage pl .pl       
 AddLanguage fr .fr 
+LanguagePriority pl fr
 DirectoryIndex index
 
 # It seems that this URI _must_ be the filename minus the extension...
